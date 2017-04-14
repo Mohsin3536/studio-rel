@@ -1,0 +1,133 @@
+
+
+
+
+#Mohsin img{text-align:left;
+width:55px;
+height:70px;
+border:3px;
+}
+
+#set{
+	margin-top:10px;
+	margin-left:5px;
+	width:700px;
+}
+
+#cont{
+	margin-left:20px;
+	width:600px;
+}
+
+#upd{
+	width:800px;
+}
+
+#pp{
+	size:50%;
+	width:50$;
+}
+
+#pic{
+	width:70px;
+	margin-top:15px;
+	margin-left:10px;
+}
+
+#btn{
+	margin-left:85%;
+}
+
+#Gallery img{
+	
+	width:80px;
+	height:120px;
+	-webkit-border-radius:10px;
+	-moz-border-radius:10px;
+	padding:3px;
+}
+
+
+#bttn{
+	margin-left:42%;
+}
+
+#text{
+	margin-left:30px;
+}
+
+#poc img{
+	
+	text-align:left;
+width:65px;
+height:65px;
+}
+
+#led{
+	margin-left:10px;
+}
+
+#btnn{margin-left:45%;
+}
+
+#hd{
+	margin-left:100%;
+}
+
+#c1{
+	width:40%;
+	color:#999
+}
+
+#c2{
+	width:60%;
+}
+
+#inbox{
+	margin-top:50px;
+
+}
+
+#pro{
+	margin-top:5px;
+}
+
+
+#tt{
+	height:30px;
+	
+}
+#immg img{
+	width:280px;
+height:255px;
+}
+
+.ui-btn-active {
+	text-shadow:none;
+color: black !important;
+ background: none !important; 
+ background-color:#6F6 !important;
+ 
+ 
+ }
+ 
+ 
+.ui-icon-app-icon{
+	background-image:url(../images/icon9.png);
+	background-size:18px 18px;
+}
+
+
+#mypic img{
+	margin-top:10px;
+}
+
+
+
+
+
+#thumb{
+	width:50px;
+	height:50px;
+}
+
